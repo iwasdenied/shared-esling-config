@@ -25,7 +25,7 @@
     "type": "git",
     "url": "git+https://github.com/iwasdenied/shared-esling-config.git"
   },
-  "author": "Mendelson",
+  "author": "mendelson <vadim.perensenko@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/iwasdenied/shared-esling-config/issues"
